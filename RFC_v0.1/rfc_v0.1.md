@@ -1,4 +1,3 @@
-[miro](https://miro.com/app/board/uXjVLlQFe6w=/)
 # Социальная сеть
 # Функциональные требования
 ## Users
@@ -26,10 +25,15 @@
 Каждый пользователь взаимодейтсвует с системой 60 раз в день.
 read / write = 40 / 20
 
+##### Ожидаемое среднее RPS за день
+RPS.total = DAU * 60 / 86 400 = 20 833 334 = 21k RPS
+RPS.read = RPS.total * 40 / 60 = 13 888 888 = 14k RPS
+RPS.write = RPS.total * 20 / 60 = 6 944 444 = 7k RPS
 ##### Геораспределенность
 РФ
 ##### Сезонность
 Праздничные дни
+Вопрос: на какой процент ожидается повышение от среднего RPS?
 
 ##### Storage
 - retention policy: вечно
@@ -116,5 +120,8 @@ SSE /api/v1/notifications (нотификации о подпищиках)
 Нет.
 
 # Архитектура (С4)
+
+[miro](https://miro.com/app/board/uXjVLlQFe6w=/)
+![](_attachments/Pasted%20image%2020250202125006.png)
 
 
