@@ -121,7 +121,8 @@ SSE /api/v1/notifications (нотификации о подпищиках)
 
 # Архитектура (С4)
 
-[miro](https://miro.com/app/board/uXjVLlQFe6w=/)
+[miro](https://miro.com/app/board/uXjVLlQFe6w=/)  
+<br>
 ![](_attachments/Pasted%20image%2020250202125006.png)
 
 
