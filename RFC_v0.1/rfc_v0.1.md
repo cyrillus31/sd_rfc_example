@@ -44,5 +44,4 @@ read / write = 40 / 20
 - mobile 
 - desktop (web?)
 
-
-![[Pasted image 20250202104630.png]]
+![[_attachments/Pasted image 20250202104824.png]]
