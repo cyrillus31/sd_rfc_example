@@ -43,5 +43,4 @@ read / write = 40 / 20
 ##### Устройства
 - mobile 
 - desktop (web?)
-
-![[_attachments/Pasted image 20250202104824.png]]
+![](_attachments/Pasted%20image%2020250202105016.png)
